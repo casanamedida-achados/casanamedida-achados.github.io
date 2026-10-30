@@ -14,8 +14,8 @@
     }
   ],
   "schema_version": 1,
-  "gerado_em": "2026-10-30T18:24:02-03:00",
-  "achado_novo": "organizador-acrilico",
+  "gerado_em": "2026-10-30T20:22:12-03:00",
+  "achado_novo": "protetor-fresta",
   "ranking": [],
   "produtos": [
     {
@@ -94,6 +94,29 @@
       "foto": {
         "src": "fotos/03.webp",
         "alt": "Kit de organizadores de acrílico transparente encaixados, foto do anúncio"
+      }
+    },
+    {
+      "id": "protetor-fresta",
+      "numero": "04",
+      "nome": "Protetor de fresta de silicone para fogão e bancada",
+      "medida": "53,5 × 5,5 cm, formato em T",
+      "medida_conferida": true,
+      "preco": {
+        "valor": 25.99,
+        "consultado_em": "2026-10-30"
+      },
+      "links": {
+        "ig": "https://s.shopee.com.br/1BNWzRhvsn",
+        "tt": "https://s.shopee.com.br/3VlRlkhRgn"
+      },
+      "publicavel": true,
+      "categoria": "cozinha",
+      "prova_social": {
+        "nota": 4.7,
+        "avaliacoes": "262",
+        "vendidos": "600",
+        "consultado_em": "2026-10-30"
       }
     }
   ]
