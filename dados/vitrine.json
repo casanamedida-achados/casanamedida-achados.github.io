@@ -1,0 +1,100 @@
+{
+  "categorias": [
+    {
+      "id": "cozinha",
+      "nome": "Cozinha"
+    },
+    {
+      "id": "organizacao",
+      "nome": "Organização"
+    },
+    {
+      "id": "natal",
+      "nome": "Natal"
+    }
+  ],
+  "schema_version": 1,
+  "gerado_em": "2026-10-30T18:24:02-03:00",
+  "achado_novo": "organizador-acrilico",
+  "ranking": [],
+  "produtos": [
+    {
+      "id": "desfiador",
+      "numero": "01",
+      "nome": "Desfiador manual de frango e carne",
+      "medida": "20 × 20 × 8 cm (aproximado)",
+      "medida_conferida": true,
+      "preco": {
+        "valor": 27.99,
+        "consultado_em": "2026-10-30"
+      },
+      "links": {
+        "ig": "https://s.shopee.com.br/2VstGqx3N0",
+        "tt": "https://s.shopee.com.br/9pfU0LUjSV"
+      },
+      "publicavel": true,
+      "categoria": "cozinha",
+      "prova_social": {
+        "nota": 4.9,
+        "avaliacoes": "3,4 mil",
+        "vendidos": "8 mil+",
+        "consultado_em": "2026-10-30"
+      },
+      "foto": {
+        "src": "fotos/01.webp",
+        "alt": "Desfiador preto com tampa transparente e frango desfiado, foto do anúncio"
+      }
+    },
+    {
+      "id": "laco-natalino",
+      "numero": "02",
+      "nome": "Laço de veludo vermelho para árvore de Natal",
+      "medida": "26 × 33 cm (por unidade)",
+      "medida_conferida": true,
+      "preco": {
+        "valor": 21.99,
+        "consultado_em": "2026-10-30"
+      },
+      "links": {
+        "ig": "https://s.shopee.com.br/7fazQOOyO1",
+        "tt": "https://s.shopee.com.br/7Ky91n8EsR"
+      },
+      "publicavel": true,
+      "categoria": "natal",
+      "prova_social": {
+        "nota": 5,
+        "avaliacoes": "464",
+        "vendidos": "1 mil+",
+        "consultado_em": "2026-10-30"
+      },
+      "foto": {
+        "src": "fotos/02.webp",
+        "alt": "Laço de veludo vermelho com alça para pendurar, foto do anúncio"
+      }
+    },
+    {
+      "id": "organizador-acrilico",
+      "numero": "03",
+      "nome": "Organizadores modulares de acrílico (kit 7, 14 ou 25)",
+      "medida": "Peças de 17 × 23, 8 × 23, 8 × 11 e 8,5 × 7,5 cm, altura 6 cm",
+      "medida_conferida": true,
+      "preco": null,
+      "links": {
+        "ig": "https://s.shopee.com.br/1W0MuhmWed",
+        "tt": "https://s.shopee.com.br/2gCKIrzHPP"
+      },
+      "publicavel": true,
+      "categoria": "organizacao",
+      "prova_social": {
+        "nota": 4.9,
+        "avaliacoes": "17,9 mil",
+        "vendidos": "40 mil+",
+        "consultado_em": "2026-10-30"
+      },
+      "foto": {
+        "src": "fotos/03.webp",
+        "alt": "Kit de organizadores de acrílico transparente encaixados, foto do anúncio"
+      }
+    }
+  ]
+}
