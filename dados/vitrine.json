@@ -14,7 +14,7 @@
     }
   ],
   "schema_version": 1,
-  "gerado_em": "2026-10-30T20:22:12-03:00",
+  "gerado_em": "2026-10-30T20:37:46-03:00",
   "achado_novo": "protetor-fresta",
   "ranking": [],
   "produtos": [
@@ -117,6 +117,10 @@
         "avaliacoes": "262",
         "vendidos": "600",
         "consultado_em": "2026-10-30"
+      },
+      "foto": {
+        "src": "fotos/04.webp",
+        "alt": "Protetor de fresta de silicone preto em formato de T, foto do anúncio"
       }
     }
   ]
